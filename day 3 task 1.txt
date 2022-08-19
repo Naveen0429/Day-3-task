@@ -1,0 +1,43 @@
+var MyResume = {
+    "Basics" :{
+        "Name":"NAVEEN PRABHU A",
+        "Email id":"anaveenprabhu29@gmail.com",
+        "phone": 9952703122,
+        "Degree":"BCA",
+    },
+     
+    "Location": {
+        "Adress":"211/A,MRC Colony,Thirumalayam palayam,Madukkarai",
+        "Pincode":641 105,
+        "City" :"Coimbatore",
+        "State" :"Tamilnadu",
+        "Country":"India",
+    },
+
+    "Educattion":{
+        "College Name":"Nehru arts and science college",
+        "Department":"computer application",
+        "Register no":"19UCAO56",
+        "year":"2019-2022",
+    },
+
+    "Languages known":{
+        "Language":"Tamil,English",
+    },
+
+    "skills":{
+        "Name":"Full stack Developer",
+        "Level":"Beginner",
+    },
+
+    "Interest":{
+        "Name":"coding",
+    },
+
+    "Hobbies":{
+        "Name":"video games,movies,listening songs",
+    }
+
+} 
+
+	console.log(MyResume)
